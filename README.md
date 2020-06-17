@@ -1,2 +1,2 @@
-# social-media-comment-classifier
-classify comments on social media
+# FML Project
+classify comments on much much more for posts written on FML
